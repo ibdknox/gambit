@@ -1,0 +1,8 @@
+pom.xml
+*jar
+/lib/
+/classes/
+.lein-deps-sum
+.cake
+/js/generated/
+/resources/tmp/
